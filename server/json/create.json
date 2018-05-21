@@ -1,0 +1,12 @@
+{
+	"jsid": "6f343baa-fec1-4f1f-8643-34dbfb1cfdc5",
+	"users": {
+		"url": "/api/users",
+		"data": {
+			"address": "address_#{i}",
+			"description": "description_#{i}",
+			"name": "name_#{i}",
+			"phone": "phone_#{i}"
+		}
+	}
+}
